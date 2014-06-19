@@ -9,10 +9,10 @@
 , "dependencies" : 
   { "log4js" : "0.6.x"
   , "express": "3.1.x"
-  , "socket.io": ">=0.9.6"
-  , "socket.io-client":">=0.9.6"
-  , "uglify-js": ">=1.2.5"
-  , "buffertools" : ">=1.0.9" 
+  , "socket.io": "0.9.x"
+  , "socket.io-client":"0.9.x"
+  , "uglify-js": "1.2.x"
+  , "buffertools" : "1.0.x" 
   } 
 , "homepage": "https://github.com/prgsmall/acequia"
 , "repository": 
